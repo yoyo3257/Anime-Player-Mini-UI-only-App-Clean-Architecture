@@ -1,5 +1,5 @@
 import 'package:anime_palyer/core/colors.dart';
-import 'package:anime_palyer/presntation/screens/payment_plan.dart';
+import 'package:anime_palyer/presentation/screens/payment_plan.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 

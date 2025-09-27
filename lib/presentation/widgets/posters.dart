@@ -1,7 +1,7 @@
 import 'package:anime_palyer/core/colors.dart';
 import 'package:anime_palyer/data/network/api_handler.dart';
 import 'package:anime_palyer/data/models/anime_model.dart';
-import 'package:anime_palyer/presntation/screens/anime_info.dart';
+import 'package:anime_palyer/presentation/screens/anime_info.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 

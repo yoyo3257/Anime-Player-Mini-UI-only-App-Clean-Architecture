@@ -1,4 +1,4 @@
-import 'package:anime_palyer/presntation/screens/home_screen.dart';
+import 'package:anime_palyer/presentation/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 
 

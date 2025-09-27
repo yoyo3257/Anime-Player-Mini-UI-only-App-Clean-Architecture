@@ -3,7 +3,12 @@
 The **Anime Player App** is a Flutter-based mobile application designed to provide anime lovers with a sleek and interactive experience. It combines an elegant UI with categorized browsing, character highlights, and anime details — creating a space *“Where Anime Comes Alive”*.
 
 ---
+## Demo
 
+### GIF Preview
+![Anime Player Demo](assets/demo.gif)  
+
+---
 ## ✨ Features
 
 * **Beautiful UI & Theming**

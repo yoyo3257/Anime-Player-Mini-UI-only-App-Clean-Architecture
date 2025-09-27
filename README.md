@@ -34,7 +34,7 @@ The **Anime Player App** is a Flutter-based mobile application designed to provi
   * Metadata section (views, claps, episodes).
   * Synopsis displayed below dividers.
     
-<img src="Detaiels.png" alt="Challenge 1 Result" width="200"/>
+<img src="animeDetailes.png" alt="Challenge 1 Result" width="200"/>
 
 * **Purchase Plan Screen**
   
@@ -43,7 +43,7 @@ The **Anime Player App** is a Flutter-based mobile application designed to provi
   * Continue button for proceeding with subscription or payment.
   * Includes a prominent illustration and gradient background for user engagement.
 
-<img src="Detaiels.png" alt="Challenge 1 Result" width="200"/>
+<img src="plan.png" alt="Challenge 1 Result" width="200"/>
   
 * **Jikan API Integration**
 

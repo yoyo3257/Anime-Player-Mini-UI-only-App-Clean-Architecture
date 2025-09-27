@@ -5,7 +5,7 @@ The **Anime Player App** is a Flutter-based mobile application designed to provi
 ---
 ## Demo
 
- [Demo Preview]([https://myanimelist.net/](https://drive.google.com/file/d/1mUVB9NSvxiAGhlgNkkOWes3RBxvENpox/view?usp=drive_link))
+ [Demo Preview]([https://myanimelist.net/](https://drive.google.com/file/d/1mUVB9NSvxiAGhlgNkkOWes3RBxvENpox/view?usp=drive_link)
  
 ---
 ## ✨ Features
